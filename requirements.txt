@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+scipy
+lightfm
+implicit
+scikit-surprise
+tensorflow
+torch
+streamlit
+fastapi
+uvicorn
